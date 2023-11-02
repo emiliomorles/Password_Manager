@@ -3,7 +3,7 @@
 
 Safe Password Manager
 
-## ![Sample Image](https://github.com/emiliomorles/Password_Manager/blob/master/extra/sample_01.JPG)
+## ![Sample Image](https://github.com/emiliomorles/Password_Manager/blob/master/extra/sample_02.JPG)
 
 ## Developer: https://github.com/emiliomorles
 
